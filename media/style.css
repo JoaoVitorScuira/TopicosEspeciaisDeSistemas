@@ -2,20 +2,25 @@
     font-size:16px;
     width:140px;
     height:50px;
-    color:#fff;
-    border-color:#d02718;
+    color:#3418d0;
+    border-color:#adadad;
+    font-weight:bold;
+    text-shadow: 0px 1px 0px #810e05;
+}
+.botao{
+    font-size:16px;
+    width:140px;
+    height:50px;
+    color:rgb(4, 20, 255);
+    border-color:#3418d0;
     font-weight:bold;
     border-top-left-radius:18px;
     border-top-right-radius:18px;
     border-bottom-left-radius:18px;
     border-bottom-right-radius:18px;
-    box-shadow: 3px 4px 0px 0px #8a2a21;
-    text-shadow: 0px 1px 0px #810e05;
-    background:linear-gradient(#c62d1f, #f24437);   
-    transition: all 0.3s;
-    cursor: pointer;
+    box-shadow: 3px 4px 0px 0px #5456cc;
+    text-shadow: 0px 1px 0px #9e80e4;
 }
-
 .center:hover{
     -webkit-transform: scale(1.05);
     transform: scale(1.05);
